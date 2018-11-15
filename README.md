@@ -16,7 +16,7 @@ Winter 2018 term. The idea is to compare and evaluate state-of-the-art feature d
 | Normal  |  <img src="/images/bike_img1_sift.jpg" heigth="240" width="240"></img>    |   <img src="/images/bike_img1_surf.jpg" heigth="240" width="240"></img>   |   <img src="/images/bike_img1_kaze.jpg" heigth="240" width="240"></img>   |
 | Blurred |   <img src="/images/bike_img4_sift.jpg" heigth="240" width="240"></img>   |   <img src="/images/bike_img4_surf.jpg" heigth="240" width="240"></img>   |   <img src="/images/bike_img4_kaze.jpg" heigth="240" width="240"></img>   |
 
-## Detector and Descriptor Plots
+## Repeatability and Precision-Recall Plots
 <img src="/images/bike_repeatability.jpg" heigth="500" width="500"></img><img src="/images/bikes_comparison.jpg" heigth="500" width="500"></img>
 
 
